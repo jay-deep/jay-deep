@@ -40,13 +40,11 @@ Since the World is in the quarantine stage:earth_asia:, and I’m having lots of
 
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p> <!-- GitHub README Stats -->
-  <a href="https://gitstats.me/JoykishanSharma">
-    <img width="460" height="auto" align="right" alt="Joykishan's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=joykishansharma&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
-   <!-- <img width="30%" height="auto" align="right" alt="Joykishan's github stats" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=joykishansharma&layout=compact" />
-NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
+  <a href="https://gitstats.me/Jaydeep">
+    <img width="460" height="auto" align="right" alt="Jaydeep's github stats" 
+         src="https://github-readme-stats.vercel.app/api?username=jay-deep&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
   </a>
+
  <!-- icons -->
  <!-- Web Development -->
 <code><a href = "https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"></a></code>
